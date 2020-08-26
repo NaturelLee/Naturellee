@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on web development in React.js.
 - 🌱 I’m currently learning Rust lang.
-- 👯 I’m looking to collaborate on project about rust.
+- 👯 I’m looking to collaborate on project about Javascript/Rust.
 - 🤔 I’m looking for a remote job.
 - 📮 Gmail: 1314carefully@gmail.com
 
