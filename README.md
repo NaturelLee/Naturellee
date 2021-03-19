@@ -8,3 +8,5 @@
 - 🌱 I’m currently learning Rust lang.
 
 
+[Click to add issues/comments to contact me](https://github.com/NaturelLee/blogs/issues)
+
