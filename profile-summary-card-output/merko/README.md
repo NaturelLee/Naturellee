@@ -35,16 +35,6 @@
 
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/NaturelLee/Naturellee/master/profile-summary-card-output/merko/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
